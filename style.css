@@ -1,0 +1,26 @@
+<<<<<<< HEAD
+p{
+    
+    margin-left: 10px;
+    margin-right: 10px;
+}
+body{
+    border: 5px solid gray;
+    border-radius: 10px;
+    border-color: grey;
+    font-family: sans-serif;
+    color: black;
+}
+img{
+    margin-bottom: 10px;
+}
+
+=======
+.pic1{
+    size: contain;
+}
+.mustang{
+    margin-bottom: 200px;
+
+}
+>>>>>>> 2dfe580 (wrk2)
